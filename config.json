@@ -1,6 +1,6 @@
 {
-  "server": "happinessremixed.com",
-  "home-timeline-length": 50,
-  "max-follow-requests": 10,
-  "max-favourites": 10
+  "server": "shumai.xyz",
+  "home-timeline-length": 200,
+  "max-followings": 80,
+  "from-notifications": 1
 }
